@@ -16,6 +16,8 @@ Create a function in Python that accepts two parameters. The first will be a lis
 
 If the second parameter is "asc," then the function should return a list with the numbers in ascending order. If it's "desc," then the list should be in descending order, and if it's "none," it should return the original list unaltered.
 
+Extra: Raising error if the parameter is other than "asc" or "desc" or "none".
+
 ## Convert a decimal number into binary
 
 Write a function in Python that accepts a decimal number and returns the equivalent binary number. To make this simple, the decimal number will always be less than 1,024, so the binary number returned will always be less than ten digits long.
